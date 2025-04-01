@@ -1,6 +1,6 @@
 *****************************************************************************
 CREDITS: This project would have never be the way it is without the help of:
-Ahmed Abd ElHamid
-Mohamed Yehya
-Mohamed Hassan
+Eng. Ahmed Abd ElHamid
+Eng. Mohamed Yehya
+Dr. Mohamed Hassan
 *****************************************************************************
