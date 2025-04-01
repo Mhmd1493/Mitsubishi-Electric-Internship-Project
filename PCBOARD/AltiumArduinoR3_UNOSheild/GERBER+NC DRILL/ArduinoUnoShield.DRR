@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ArduinoUnoShield.PcbDoc   05/01/2025  06:56:47
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ArduinoUnoShield-RoundHoles.TXT
+ASCII SlotHoles File : ArduinoUnoShield-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.51mm (20mil)                                            Round             2         PTH        3.17mm (0.13inch)
+T2      0.74mm (29mil)                                            Round             8         PTH        72.40mm (2.85inch)
+T3      0.76mm (30mil)                                            Round             32        PTH        160.34mm (6.31inch)
+T4      0.9mm (35mil)                                             Round             8         PTH        46.84mm (1.84inch)
+T5      1mm (39mil)                                               Round             6         PTH        37.47mm (1.48inch)
+T6      1mm (39mil)                                               Slot              3         PTH        30.34mm (1.19inch)
+T7      1.1mm (43mil)                                             Round             8         PTH        20.32mm (0.80inch)
+T8      1.14mm (45mil)                                            Round             6         PTH        21.59mm (0.85inch)
+T9      1.2mm (47mil)                                             Round             6         PTH        79.27mm (3.12inch)
+T10     3.2mm (126mil)                                            Round             4         PTH        133.29mm (5.25inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              83
+
+Total Processing Time (hh:mm:ss) : 00:00:00
