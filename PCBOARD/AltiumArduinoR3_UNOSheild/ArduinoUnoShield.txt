@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : E:\Mohamed\ENGINEERING\MITSUBISHI\PROJECT\PCBOARD\AltiumArduinoR3_UNOSheild\ArduinoUnoShield.PcbDoc
+Date         : 04/01/2025
+Time         : 14:37:06
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 2700milsx2100mils
+    Components on board, 21
+count : 2

@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: E:\Mohamed\ENGINEERING\MITSUBISHI\PROJECT\PCBOARD\AltiumArduinoR3_UNOSheild\ArduinoUnoShield.PcbDoc
+RuleKind=Width|RuleName=Width_12V&GND|Scope=Board|Minimum=35.00
+RuleKind=Width|RuleName=Width_5V&3.3V|Scope=Board|Minimum=30.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=17.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=18.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
